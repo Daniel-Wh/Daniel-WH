@@ -17,6 +17,7 @@ Before fall starts I'm working on React --> React Native --> MERN stack
 
 - LinkedIn - [Daniel-Wh](https://www.linkedin.com/in/daniel-whitney-04a040139/)
 - Discord - Daniel W#6573
+- email - whitneyd@southwestern.edu
 
 <!--
 **Daniel-Wh/Daniel-WH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
