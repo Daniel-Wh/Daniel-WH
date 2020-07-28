@@ -1,6 +1,6 @@
 # Daniel Whitney - @Daniel-Wh
 
-Computer Science Major at Southwestern University, graduating Spring of '21. Currently working on building a mock food delivery web application for more html/css practice, a web app as an education tool for an upcoming course in GIS (building a site and tutorial videos as an independent study in delivering education materials), and a server status web application for a client. 
+Computer Science Major at Southwestern University, graduating Spring of '21. Currently working on building a mock food delivery web application for more html/css practice, a web app as an education tool for an upcoming course in GIS (building a site and tutorial videos as an independent study in delivering education materials), a server status web application for a client, and a lead generation site for a data visualization consultancy. 
 
 [My Resume](https://github.com/Daniel-Wh/Daniel-WH/blob/master/resume.pdf)
 
@@ -13,7 +13,7 @@ Computer Science Major at Southwestern University, graduating Spring of '21. Cur
 
 ## What I'm learning
 
-Before fall starts I'm working on React --> React Native --> MERN stack
+Before fall starts I'm working on Electron.js --> React --> React Native --> MERN stack
 
 ## Contact Me
 
