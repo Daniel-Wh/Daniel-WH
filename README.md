@@ -1,6 +1,8 @@
 # Daniel Whitney - @Daniel-Wh
 
-Computer Science Major at Southwestern University, graduating Spring of '21 and freelance web developer. Currently working on building a web app as an education tool for an upcoming course in GIS (building a site and tutorial videos as an independent study in delivering education materials) and building a site for a restaurant.  
+Computer Science Major at Southwestern University, graduating Spring of '21 and freelance web developer. Currently working on building a web app as an education tool for an upcoming course in GIS (building a site and tutorial videos as an independent study in delivering education materials).
+
+Current Freelance projects: A photographers portfolio, a restaurant's site (mobile first) including online ordering.  
 
 [My Resume](https://github.com/Daniel-Wh/Daniel-WH/blob/master/resume.pdf)
 
