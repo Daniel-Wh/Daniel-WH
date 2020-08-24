@@ -25,6 +25,10 @@ Before fall starts I'm working on Electron.js --> React --> React Native --> MER
 - Discord - Daniel W#6573
 - email - whitneyd@southwestern.edu
 
+## Github Stats
+
+![Daniel Whitney's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-wh&show_icons=true&theme=dark)
+
 <!--
 **Daniel-Wh/Daniel-WH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
