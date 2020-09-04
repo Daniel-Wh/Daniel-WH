@@ -8,7 +8,8 @@ Current Freelance projects: A photographer's portfolio (building with React), a 
 
 
 ## My Work
-
+[Introduction to Environmental GIS](https://introtogis.com) - As an independent study, I developed a web application to assist the incoming students in the Introduction to Environmental GIS. The purpose of this application was to be a resource for students who likely will be taking the class remotely. The site is a single page application that is  responsive for mobile and full screen. I developed the api to serve documents to the students and created a simple database to operate as a data repository for the students as well. In addition to developing the web application, I created tutorial videos posted on the app through Youtube and labs that the students will go through during the course of the class. 
+<br/>
 [Mock Food Delivery](https://github.com/Daniel-Wh/MockFoodDelivery) - A mock food delivery service. I built this site using just HTML and CSS to practice responsive web design. I utilzed the grid.css framework and various css animations as part of the styling. A gif walk through of the site is available [here](https://github.com/Daniel-Wh/MockFoodDelivery). Feel free to clone the repo and open the index.html file for a hands on view.
 
 [Memory Cards](https://github.com/Daniel-Wh/MemoryCards) - Index card web application, deployed on Heroku. The application allows for cloud storage of index cards, simple front end that relies on css animations, login and registration with email verification of registration, cloud storage using PostgreSQL interfaced by SQLAlchemy at the api. (_Vanilla JS, HTML/CSS, Flask, SQLAlchemy, Sendgrid_)
