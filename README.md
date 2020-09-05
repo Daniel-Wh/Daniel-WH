@@ -1,11 +1,9 @@
 # Daniel Whitney - @Daniel-Wh
 
-Computer Science Major at Southwestern University, graduating Spring of '21 and freelance web developer. Currently working on building a web app as an education tool for an upcoming course in GIS (building a site and tutorial videos as an independent study in delivering education materials).
+Computer Science Major at Southwestern University, graduating Spring of '21, part-time software developer, and freelance web developer.
 
-Current Freelance projects: A photographer's portfolio (building with React), a restaurant's site (mobile first using React) including online ordering.  
-
+Current Freelance projects: A photographer's portfolio (building with React), a donut shop's site (mobile first using React), along with varying SEO strategies for each client.  
 [My Resume](https://github.com/Daniel-Wh/Daniel-WH/blob/master/resume.pdf)
-
 
 ## My Work
 [Introduction to Environmental GIS](https://www.introtogis.com/) - As an independent study, I developed a web application to assist the incoming students at Southwestern University's Introduction to Environmental GIS. The purpose of this application is to be a resource for students who likely will be taking the class with little in person support as a result of the pandemic. The site is a single page application that is  responsive for mobile and full screen. I developed the api to serve documents to the students and created a simple database to operate as a data repository for the students as well. In addition to developing the web application, I created tutorial videos posted on the app through Youtube and labs that the students will go through during the course of the class. I purchased the domain, hosted the application on Heroku. The average response time is 6 ms, average load time is 1100 ms. ( vanilla JS, HTML/CSS, Flask, SQLAlchemy, Babel, WebPack )
@@ -19,7 +17,7 @@ Current Freelance projects: A photographer's portfolio (building with React), a 
 
 ## What I'm learning
 
-Before fall starts I'm working on Electron.js --> React --> React Native --> MERN stack
+Electron.js --> React --> React Native --> MERN stack
 
 ## Contact Me
 
