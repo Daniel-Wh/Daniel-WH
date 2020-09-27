@@ -23,7 +23,7 @@ Electron.js --> React --> React Native --> MERN stack
 ## Contact Me
 
 - LinkedIn - [Daniel-Wh](https://www.linkedin.com/in/daniel-whitney-04a040139/)
-- Discord - Daniel W#6573
+- Discord - Daniel W#1010
 - email - whitneyd@southwestern.edu
 
 ## Github Stats
