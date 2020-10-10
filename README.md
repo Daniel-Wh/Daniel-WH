@@ -30,7 +30,8 @@ Electron.js --> React --> React Native --> MERN stack
 
 ![Daniel Whitney's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-wh&show_icons=true&theme=dark)
 
-![](https://komarev.com/ghpvc/?Daniel-Wh&style=flat-square)
+<br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=daniel-Wh" alt="Daniel Whitney" /> </p>
 <!--
 **Daniel-Wh/Daniel-WH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
