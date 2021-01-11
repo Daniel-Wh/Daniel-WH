@@ -1,8 +1,8 @@
 # Daniel Whitney - @Daniel-Wh
 
-Computer Science Major at Southwestern University, graduating Spring of '21, part-time software developer, and freelance web developer.
+Computer Science Major at Southwestern University, graduating Spring of '21, part-time software developer developing Kiosk applications/solutions, and freelance web developer.
 
-Current Freelance projects: A photographer's portfolio (building with React), a donut shop's site (mobile first using React), along with varying SEO strategies for each client.  <br/>
+Current Freelance projects: A photographer's portfolio (building with React), a donut shop's site/menu (mobile first using React).  <br/>
 <br/>
 [My Resume](https://github.com/Daniel-Wh/Daniel-WH/blob/master/resume.pdf)
 
