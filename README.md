@@ -1,19 +1,19 @@
 # Daniel Whitney - @Daniel-Wh
 
-Computer Science Major at Southwestern University, graduating Spring of '21, part-time software developer developing Kiosk applications/solutions, and freelance web developer.
+Computer Science Major at Southwestern University, graduating Spring of '21 with a Bachelors in Computer Science, part-time software engineer developing Kiosk applications/solutions, and freelance web developer.
 
 <br/>
-[My Resume](https://github.com/Daniel-Wh/Daniel-WH/blob/master/resume.pdf)
+[My Resume](https://github.com/Daniel-Wh/Daniel-WH/blob/master/Daniel.Whitney.Resume.pdf)
 
 ## My Work
 [Introduction to Environmental GIS](https://www.introtogis.com/) - As an independent study, I developed a web application to assist the incoming students at Southwestern University's Introduction to Environmental GIS. The purpose of this application is to be a resource for students who likely will be taking the class with little in person support as a result of the pandemic. The site is a single page application that is  responsive for mobile and full screen. I developed the api to serve documents to the students and created a simple database to operate as a data repository for the students as well. In addition to developing the web application, I created tutorial videos posted on the app through Youtube and labs that the students will go through during the course of the class. I purchased the domain, hosted the application on Heroku. The average response time is 6 ms, average load time is 1100 ms. ( vanilla JS, HTML/CSS, Flask, SQLAlchemy, Babel, WebPack )
 <br/>
 <br/>
-[Mock Food Delivery](https://github.com/Daniel-Wh/MockFoodDelivery) - A mock food delivery service. I built this site using just HTML and CSS to practice responsive web design. I utilzed the grid.css framework and various css animations as part of the styling. A gif walk through of the site is available [here](https://github.com/Daniel-Wh/MockFoodDelivery). Feel free to clone the repo and open the index.html file for a hands on view.
-
-[Memory Cards](https://github.com/Daniel-Wh/MemoryCards) - Index card web application, deployed on Heroku. The application allows for cloud storage of index cards, simple front end that relies on css animations, login and registration with email verification of registration, cloud storage using PostgreSQL interfaced by SQLAlchemy at the api. (_Vanilla JS, HTML/CSS, Flask, SQLAlchemy, Sendgrid_)
-
+[Mock Food Delivery](https://github.com/Daniel-Wh/MockFoodDelivery) - A mock food delivery service. I built this site using just HTML and CSS to practice responsive web design. I utilzed the grid.css framework and various css animations as part of the styling. A gif walk through of the site is available [here](https://github.com/Daniel-Wh/MockFoodDelivery) or you can see it for yourself [here](https://silly-swirles-52319c.netlify.app/)
+<br/>
 [Forkify](https://github.com/Daniel-Wh/Forkify-Production) - Example recipe finder application, check the [repository](https://github.com/Daniel-Wh/Forkify-Production) for acceptable search parameters. Deployed on Heroku, served with Flask app. Front end utilizes pagination, asynchronous search request with local cloud storage of favorites (_Vanilla JS, HTML/CSS, Flask_)
+<br/>
+[Static site I made for a photographer](https://www.kcatxphotos.com). This site has a conversion rate of between 5 and 7 percent, utilized design provided by client.
 
 ## What I'm learning
 
