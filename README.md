@@ -3,6 +3,8 @@
 Computer Science Major at Southwestern University, graduating Spring of '21 with a Bachelors in Computer Science, part-time software engineer developing Kiosk applications/solutions, and freelance web developer.
 
 <br/>
+
+
 [My Resume](https://github.com/Daniel-Wh/Daniel-WH/blob/master/Daniel.Whitney.Resume.pdf)
 
 ## My Work
