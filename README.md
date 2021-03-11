@@ -31,6 +31,11 @@ Electron.js --> React --> React Native --> MERN stack
 
 ![Daniel Whitney's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-wh&show_icons=true&theme=dark)
 
+
+<img src="https://steam-status-img.vercel.app/currently-playing?username=xavriel424" width="256" height="64" 
+    alt="Now Playing">
+
+
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=daniel-Wh" alt="Daniel Whitney" /> </p>
 <!--
