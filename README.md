@@ -1,6 +1,6 @@
 # Daniel Whitney - @Daniel-Wh
 
-Computer Science Major at Southwestern University, graduating Spring of '21 with a Bachelors in Computer Science, incoming Software Engineer at Cox Automotive. 
+Computer Science Major at Southwestern University, graduating Spring of '21 with a Bachelors in Computer Science, Software Engineer at Cox Automotive. 
 <br/>
 ## My Work
 [Introduction to Environmental GIS](https://www.introtogis.com/) - As an independent study, I developed a web application to assist the incoming students at Southwestern University's Introduction to Environmental GIS. The purpose of this application is to be a resource for students who likely will be taking the class with little in person support as a result of the pandemic. The site is a single page application that is  responsive for mobile and full screen. I developed the api to serve documents to the students and created a simple database to operate as a data repository for the students as well. In addition to developing the web application, I created tutorial videos posted on the app through Youtube and labs that the students will go through during the course of the class. I purchased the domain, hosted the application on Heroku. The average response time is 6 ms, average load time is 1100 ms. ( vanilla JS, HTML/CSS, Flask, SQLAlchemy, Babel, WebPack )
