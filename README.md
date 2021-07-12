@@ -15,7 +15,7 @@ Software Engineer at Cox Automotive.
 
 ## What I'm learning
 
-Electron.js --> React --> React Native --> MERN stack
+Rust -> WASM -> Stencil.js
 
 ## Contact Me
 
