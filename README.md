@@ -15,7 +15,7 @@ Software Engineer at Cox Automotive (vAuto, Kelley Blue Book, Dealer.com, Manhei
 
 ## What I'm learning
 
-Rust -> WASM -> Stencil.js
+AWS build/deploy/test --> MFE architecture --> microservices
 
 ## Contact Me
 
