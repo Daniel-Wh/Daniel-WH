@@ -3,24 +3,18 @@
 Software Engineer at Cox Automotive (vAuto, Kelley Blue Book, Dealer.com, Manheim Auction, etc)
 <br/>
 ## My Work
-[Introduction to Environmental GIS](https://www.introtogis.com/) - As an independent study, I developed a web application to assist the incoming students at Southwestern University's Introduction to Environmental GIS. The purpose of this application is to be a resource for students who likely will be taking the class with little in person support as a result of the pandemic. The site is a single page application that is  responsive for mobile and full screen. I developed the api to serve documents to the students and created a simple database to operate as a data repository for the students as well. In addition to developing the web application, I created tutorial videos posted on the app through Youtube and labs that the students will go through during the course of the class. I purchased the domain, hosted the application on Heroku. The average response time is 6 ms, average load time is 1100 ms. ( vanilla JS, HTML/CSS, Flask, SQLAlchemy, Babel, WebPack )
+[Cox Auto](https://developer.coxautoinc.com) - Enterprise platform solving at scale how to deliver public and private APIs, client credentials, API provisioning, eventing, and more. As a full stack engineer, I've worked on every aspect of building this platform. Front end --> Back end --> Infrastructure --> Deploy --> Tooling/Packages
 <br/>
-[Southwestern Tutor application](https://github.com/Southwestern-Higher-Learning/TutorFrontEnd) - Mobile application built using React Native and React in connection with the Google Calendar api to centralize access to Southwestern Tutors allowing students at Southwestern to schedule sessions with tutors and leave reviews. Performed code reviews, taught two of my classmates JS/React/RN and provided architecture support for backend services. 
-<br/>
-[Mock Food Delivery](https://github.com/Daniel-Wh/MockFoodDelivery) - A mock food delivery service. I built this site using just HTML and CSS to practice responsive web design. I utilzed the grid.css framework and various css animations as part of the styling. A gif walk through of the site is available [here](https://github.com/Daniel-Wh/MockFoodDelivery) or you can see it for yourself [here](https://silly-swirles-52319c.netlify.app/)
-<br/>
-[Forkify](https://github.com/Daniel-Wh/Forkify-Production) - Example recipe finder application, check the [repository](https://github.com/Daniel-Wh/Forkify-Production) for acceptable search parameters. Deployed on Heroku, served with Flask app. Front end utilizes pagination, asynchronous search request with local cloud storage of favorites (_Vanilla JS, HTML/CSS, Flask_)
-<br/>
-[Static site I made for a photographer](https://www.kcatxphotos.com). This site has a conversion rate of between 5 and 7 percent, utilized design provided by client.
+[Gym Template](https://github.com/users/Daniel-Wh/projects/2) - CRM Platform for Crossfit and Olympic lifting gyms to solve WOD generation, user management, trainer management, and bring gamification and community to the online gym space. 
 
 ## What I'm learning
 
-AWS build/deploy/test --> MFE architecture --> microservices
+AWS/CDKTF --> Golang --> System Design
 
 ## Contact Me
 
 - LinkedIn - [Daniel-Wh](https://www.linkedin.com/in/daniel-whitney-04a040139/)
-- Discord - Daniel W#1010
+- Discord - Daniel W#6251
 - email - whitneyd.dev@gmail.com
 
 ## Github Stats
