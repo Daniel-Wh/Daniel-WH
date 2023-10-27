@@ -3,7 +3,7 @@
 Software Engineer at Cox Automotive (vAuto, Kelley Blue Book, Dealer.com, Manheim Auction, etc)
 <br/>
 ## My Work
-[Cox Auto](https://developer.coxautoinc.com) - Enterprise platform solving at scale how to deliver public and private APIs, client credentials, API provisioning, eventing, and more. As a full stack engineer, I've worked on every aspect of building this platform. Front end --> Back end --> Infrastructure --> Deploy --> Tooling/Packages
+[SafeBase](https://safebase.io) - Full Stack engineer. SafeBase is the customer-facing Trust Center that automates B2B security reviews.
 <br/>
 [Gym Template](https://github.com/users/Daniel-Wh/projects/2) - CRM Platform for Crossfit and Olympic lifting gyms to solve WOD generation, user management, trainer management, and bring gamification and community to the online gym space. 
 
