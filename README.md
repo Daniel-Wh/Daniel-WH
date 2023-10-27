@@ -9,7 +9,7 @@ Software Engineer at SafeBase
 
 ## What I'm learning
 
-AWS/CDKTF --> Golang --> System Design
+AWS/CDKTF --> System Design --> Devops
 
 ## Contact Me
 
