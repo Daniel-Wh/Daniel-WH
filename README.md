@@ -1,11 +1,11 @@
 # Daniel Whitney - @Daniel-Wh
 
-Software Engineer at SafeBase
+Senior Software Engineer at SafeBase
 <br/>
 ## My Work
-[SafeBase](https://safebase.io) - SafeBase is the customer-facing Trust Center that automates B2B security reviews.
+[SafeBase](https://safebase.io) - SafeBase is the customer-facing Trust Center that automates B2B security reviews. I'm a full stack engineer developing enterprise solutions for friction free security reviews. 
 <br/>
-[Gym Template](https://github.com/users/Daniel-Wh/projects/2) - CRM Platform for Crossfit and Olympic lifting gyms to solve WOD generation, user management, trainer management, and bring gamification and community to the online gym space. 
+[CommitHashDeploy](https://github.com/Daniel-Wh/CommitHashDeploy) - Repo to demonstrate one of my favorite devops concepts. Dynamically routing to specific SPA builds using Cookies, Cloudfront Functions, and Github Actions. 
 
 ## What I'm learning
 
